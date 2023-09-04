@@ -1,3 +1,3 @@
 function init() {
-  console.log("Hola q hace ");
+  console.log("Hola q hace");
 }
